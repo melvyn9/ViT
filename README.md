@@ -1,2 +1,2 @@
-# ViT
-Varying Patch Sizes of ViTs
+# Vision Transformers
+Varying Patch Sizes of ViTs.
